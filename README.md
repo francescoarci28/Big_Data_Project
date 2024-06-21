@@ -1,0 +1,1 @@
+Repository contenente un progetto dell'esame di Big Data. Il dataset usato è una raccolta di tweet relativi all'uragano Harvey, che ha colpito il Texas nel 2017. Per la parte di analisi è stata usata la libreria PySpark, mentre per la visualizzazione dei risultati è stato usato Streamlit.
